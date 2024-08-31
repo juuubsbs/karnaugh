@@ -1,0 +1,2 @@
+## What's here?
+Well, at one of my fist classes in the university we saw karnaugh maps, sooooo i had the idea to make it on code, it's not done, has a lot of failures, but i hope I'll end with it soon.
